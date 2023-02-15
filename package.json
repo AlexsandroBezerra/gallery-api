@@ -1,0 +1,11 @@
+{
+  "name": "gallery-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A GraphQL API to store images as a gallery.",
+  "license": "GPL-3.0",
+  "author": "Alexsandro G Bezerra <alexsandro.g.bezerra@gmail.com>",
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
